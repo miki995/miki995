@@ -6,7 +6,7 @@ I'm a Software Engineer with over 6 years of experience, focused on working with
 
 ![visitors](https://img.shields.io/badge/dynamic/json?color=informational&label=visitor%20count&query=value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fmiki995.miki995%2Freadme)
 
-![Miki's GitHub Stats](https://github-readme-stats.vercel.app/api?username=miki995&show_icons=true)
+![Miki's GitHub Stats](https://github-readme-stats.vercel.app/api?username=miki995&show_icons=true&count_private=true)
 
 ## 💼 Job
 
